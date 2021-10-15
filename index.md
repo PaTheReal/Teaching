@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Python基礎教程
 
 You can use the [editor on GitHub](https://github.com/PaTheReal/Teaching/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
